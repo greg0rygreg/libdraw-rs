@@ -1,0 +1,8 @@
+[package]
+name = "example"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.41"
+libdraw-rs = { path = "../lib" }
