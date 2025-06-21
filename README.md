@@ -37,3 +37,7 @@ libdraw-rs = { path = "../libdraw-rs" }
 ```sh
 cargo run -p your_app_name --release
 ```
+
+# TODO
+- [x] document the functions
+- [ ] get testers to report bugs
